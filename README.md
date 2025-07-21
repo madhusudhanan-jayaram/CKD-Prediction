@@ -20,8 +20,7 @@ Balanced class handling using class_weight='balanced'
 
 📁 Repository Structure
 bash
-Copy
-Edit
+
 📦 ckd-classification-ml
  ┣ 📊 CKD.csv                  # Dataset
  ┣ 📓 decision_tree_classification_grid.ipynb
@@ -60,14 +59,12 @@ Test Case 2: 🔵 No CKD (Confidence: 0.84)
 Clone the repo:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/madhusudhanan-jayaram/ckd-classification-ml.git
 Run the Jupyter notebook:
 
 bash
-Copy
-Edit
+
 jupyter notebook decision_tree_classification_grid.ipynb
 Try out predictions with your own test data or use the provided ckd_test_samples.json.
 
@@ -85,5 +82,5 @@ Code readability and formatting best practices
 👨‍💻 Author
 Madhu Sudhanan Jayaram
 AI & Full-Stack Enthusiast | Machine Learning Explorer
-🔗 GitHub Profile
+
 
